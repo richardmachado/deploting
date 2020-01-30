@@ -14,7 +14,7 @@ function App() {
   }, []);
   return (
     <main>
-      <h1>Deploying apps is awesome</h1>
+      <h1>Deploying apps is awesome with a new branch</h1>
       <h2>
         Deployed with{' '}
         <a
